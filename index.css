@@ -1,0 +1,97 @@
+/* Landing Section */
+nav {
+    background: black;
+
+}
+
+nav a {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21.94px;
+    text-align: center;
+    width: 95.05px;
+    color: white !important;
+}
+.nav-link:hover{
+    color: white;
+    background-color: gray;
+}
+#landing {
+    background: linear-gradient(rgba(0, 0, 0, 0.59),rgba(0, 0, 0, 0.59) ), url(./images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title {
+    font-family: Montserrat;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#title-description {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#base {
+    padding: 12px 32px 12px 32px;
+    border-radius: 999px 0px 0px 0px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    background: black;
+    border-radius: 25px;
+    color: #FFFFFF;
+
+}
+
+/* End of Landing Section */
+
+/* About Section */
+#about {
+	background: linear-gradient(rgba(0, 0, 0, 0.59),rgba(0, 0, 0, 0.59) ), url(./images/banner.png);
+    
+}
+
+#about h4 {
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 48.76px;
+	text-align: left;
+
+	color: white;
+}
+
+#about p {
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.26px;
+	text-align: left;
+	color: white;
+}
+/* End of About Section */
+
+/* Tools Section */
+#tools h3 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.76px;
+    text-align: center;
+    color: black;
+}
+/* End of Tools Section */
+
